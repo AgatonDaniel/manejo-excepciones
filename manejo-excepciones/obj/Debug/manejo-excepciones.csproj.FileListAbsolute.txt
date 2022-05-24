@@ -1,0 +1,14 @@
+C:\Users\magcl\OneDrive\Escritorio\tec univercidad\P.O,O\Unidad 5\manejo-excepciones\bin\Debug\manejo-excepciones.exe.config
+C:\Users\magcl\OneDrive\Escritorio\tec univercidad\P.O,O\Unidad 5\manejo-excepciones\bin\Debug\manejo-excepciones.exe
+C:\Users\magcl\OneDrive\Escritorio\tec univercidad\P.O,O\Unidad 5\manejo-excepciones\bin\Debug\manejo-excepciones.pdb
+C:\Users\magcl\OneDrive\Escritorio\tec univercidad\P.O,O\Unidad 5\manejo-excepciones\obj\Debug\manejo-excepciones.csproj.AssemblyReference.cache
+C:\Users\magcl\OneDrive\Escritorio\tec univercidad\P.O,O\Unidad 5\manejo-excepciones\obj\Debug\manejo-excepciones.csproj.CoreCompileInputs.cache
+C:\Users\magcl\OneDrive\Escritorio\tec univercidad\P.O,O\Unidad 5\manejo-excepciones\obj\Debug\manejo-excepciones.exe
+C:\Users\magcl\OneDrive\Escritorio\tec univercidad\P.O,O\Unidad 5\manejo-excepciones\obj\Debug\manejo-excepciones.pdb
+C:\Users\magcl\OneDrive\Documentos\GitHub\manejo-excepciones\manejo-excepciones\bin\Debug\manejo-excepciones.exe.config
+C:\Users\magcl\OneDrive\Documentos\GitHub\manejo-excepciones\manejo-excepciones\bin\Debug\manejo-excepciones.exe
+C:\Users\magcl\OneDrive\Documentos\GitHub\manejo-excepciones\manejo-excepciones\bin\Debug\manejo-excepciones.pdb
+C:\Users\magcl\OneDrive\Documentos\GitHub\manejo-excepciones\manejo-excepciones\obj\Debug\manejo-excepciones.csproj.AssemblyReference.cache
+C:\Users\magcl\OneDrive\Documentos\GitHub\manejo-excepciones\manejo-excepciones\obj\Debug\manejo-excepciones.csproj.CoreCompileInputs.cache
+C:\Users\magcl\OneDrive\Documentos\GitHub\manejo-excepciones\manejo-excepciones\obj\Debug\manejo-excepciones.exe
+C:\Users\magcl\OneDrive\Documentos\GitHub\manejo-excepciones\manejo-excepciones\obj\Debug\manejo-excepciones.pdb
